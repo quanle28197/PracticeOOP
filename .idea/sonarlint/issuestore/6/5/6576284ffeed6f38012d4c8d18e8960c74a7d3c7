@@ -1,0 +1,44 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.( ×œ
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(™Ïêƒ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èğØ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+X
+java:S1854"BRemove this useless assignment to local variable "managerOfficer".(ìûÖ
+V
+java:S1854!";Remove this useless assignment to local variable "address".(Èüúùÿÿÿÿ
+V
+java:S1854":Remove this useless assignment to local variable "gender".(Şì–u8—À‘ëŸ0
+T
+java:S1854"7Remove this useless assignment to local variable "age".(°úÍÖ8ÈÒëŸ0
+Z
+java:S1854"8Remove this useless assignment to local variable "name".(Ü°ŒŸÿÿÿÿÿ8íğ•ëŸ0
+I
+java:S1481"3Remove this unused "managerOfficer" local variable.(ìûÖ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(åÕ¹ÿÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¯÷ë²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åÕ¹ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Êÿæì
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘‚àºıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øÚ­üÿÿÿÿ
+7	java:S131""Add a default case to this switch.( ×œ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÛç+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤‹¶øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ğÍºè
+7	java:S131""Add a default case to this switch.(™Ïêƒ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾±”û
+D
+java:S1481")Remove this unused "name" local variable.(Ü°ŒŸÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÓÅ„
+E
+java:S1481"(Remove this unused "age" local variable.(°úÍÖ8ÒÒëŸ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»‹™¿úÿÿÿÿ8¢À‘ëŸ0
+G
+java:S1481"+Remove this unused "gender" local variable.(Şì–u8£À‘ëŸ0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ÌóÒ8€ñ•ëŸ0
+N
+java:S1481!",Remove this unused "address" local variable.(Èüúùÿÿÿÿ8ñ•ëŸ0
