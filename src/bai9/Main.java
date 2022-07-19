@@ -5,7 +5,7 @@ import bai9.model.Receipt;
 
 public class Main {
     public static void main(String[] args) {
-       Customer customer1 = new Customer("Minh Quab", 10, 1);
+       Customer customer1 = new Customer("Minh Quan", 10, 1);
        Customer customer2 = new Customer("Thuy Tien", 11, 2);
 
        Receipt receipt = new Receipt(customer1, 300, 100);

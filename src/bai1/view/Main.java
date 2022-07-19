@@ -1,4 +1,4 @@
-package bai1;
+package bai1.view;
 
 import bai1.model.*;
 
